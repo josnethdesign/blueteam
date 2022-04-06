@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64.070259"
+   height="12.15624"
+   viewBox="0 0 16.951922 3.2163385"
+   version="1.1"
+   id="svg827"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.1827231"
+     inkscape:cx="32.753782"
+     inkscape:cy="11.356238"
+     inkscape:window-width="1024"
+     inkscape:window-height="568"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid888"
+       empspacing="4"
+       originx="-0.52916664"
+       originy="-1.5668306" />
+  </sodipodi:namedview>
+  <defs
+     id="defs824" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.52916667,-1.5668306)">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.75;font-family:Roboto;-inkscape-font-specification:Roboto;word-spacing:0px;stroke-width:0.264583"
+       x="0.23977889"
+       y="4.741828"
+       id="text2696"><tspan
+         sodipodi:role="line"
+         id="tspan2694"
+         style="stroke-width:0.264583"
+         x="0.23977889"
+         y="4.741828">blue<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+   id="tspan7236">team</tspan></tspan></text>
+  </g>
+</svg>
